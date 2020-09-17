@@ -1,6 +1,6 @@
 # Dialogflow Navigation
 Let's create an Android app where you navigate with your voice.
-It's based on (abhi007tyagi's library)[https://github.com/abhi007tyagi/Android_Dialogflow_Chatbot_Library].
+It's based on [abhi007tyagi's library](https://github.com/abhi007tyagi/Android_Dialogflow_Chatbot_Library).
 
 ## What you have to do
 1. Fork this project
